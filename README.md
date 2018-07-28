@@ -1,6 +1,7 @@
 # New-Portfolio
 
-##My New Portfolio Website using *HTML5
+##My New Portfolio Website using: 
+*HTML5
 
 *CSS3 - Transitions/Grid/Flex
 

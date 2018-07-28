@@ -1,0 +1,23 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "*HTML5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanDoors/New-Portfolio.git"
+  },
+  "author": "Syyad Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhanDoors/New-Portfolio/issues"
+  },
+  "homepage": "https://github.com/KhanDoors/New-Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2",
+    "npm": "^6.2.0"
+  }
+}
