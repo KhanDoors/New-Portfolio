@@ -17,8 +17,7 @@
   "bugs": {
     "url": "https://github.com/KhanDoors/New-Portfolio/issues"
   },
-  "homepage": "https://github.com/KhanDoors/New-Portfolio#readme",
-  "dependencies": {
+   "dependencies": {
     "gh-pages": "^1.2.0",
     "node-sass": "^4.9.2",
     "npm": "^6.2.0"
