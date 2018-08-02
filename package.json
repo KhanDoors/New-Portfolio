@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "*HTML5",
   "main": "index.js",
+  "homepage": "https://khandoors.github.io/New-Portfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/KhanDoors/New-Portfolio#readme",
   "dependencies": {
+    "gh-pages": "^1.2.0",
     "node-sass": "^4.9.2",
     "npm": "^6.2.0"
   }
