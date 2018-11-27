@@ -1,13 +1,15 @@
 # New-Portfolio
 
-##My New Portfolio Website using: 
+##My New Portfolio Website using:
 
-*HTML5
+\*HTML5
 
-*CSS3 - Transitions/Grid/Flex
+\*CSS3 - Transitions/Grid/Flex
 
-*Sass
+\*Sass
 
-*NPM Package Manager
+\*NPM Package Manager
 
-*JavaScript
+\*JavaScript
+
+Link: https://khandoors.github.io/New-Portfolio/
